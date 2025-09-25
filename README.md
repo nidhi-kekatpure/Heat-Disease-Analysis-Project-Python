@@ -1,8 +1,8 @@
-# ❤️ Heart Disease Dataset Analysis
+# Heart Disease Dataset Analysis
 
 ---
 
-## 📝 Business Problem
+## Business Problem
 Heart disease is one of the leading causes of death worldwide.  
 Healthcare providers, researchers, and policymakers need data-driven insights to better understand **risk factors** and **patterns** of heart disease to improve early detection and prevention.
 
@@ -14,7 +14,7 @@ Healthcare providers, researchers, and policymakers need data-driven insights to
 
 ---
 
-## 💡 My Solution
+## My Solution
 I solved this problem using **Python and data analysis libraries** to perform an end-to-end EDA pipeline:
 
 1. **Import libraries & dataset**  
@@ -38,3 +38,4 @@ I solved this problem using **Python and data analysis libraries** to perform an
    - Histograms for continuous variables  
 
 ---
+
