@@ -1,6 +1,5 @@
 # Heart Disease Dataset Analysis
 
----
 
 ## Business Problem
 Heart disease is one of the leading causes of death worldwide.  
@@ -12,7 +11,7 @@ Healthcare providers, researchers, and policymakers need data-driven insights to
 - Clean and preprocess the dataset to ensure reliability  
 - Perform **Exploratory Data Analysis (EDA)** to extract actionable insights  
 
----
+
 
 ## My Solution
 I solved this problem using **Python and data analysis libraries** to perform an end-to-end EDA pipeline:
@@ -37,5 +36,4 @@ I solved this problem using **Python and data analysis libraries** to perform an
    - Serum cholesterol levels  
    - Histograms for continuous variables  
 
----
 
